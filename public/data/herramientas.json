@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Claude",
+    "desc": "Asistente de IA de Anthropic para análisis, redacción y trabajo con documentos largos.",
+    "cats": [
+      "Texto",
+      "Productividad"
+    ],
+    "url": "https://claude.ai/login",
+    "color": "#F2B880",
+    "plan": "pagada",
+    "logo": "claude",
+    "requiresCredential": true
+  },
+  {
+    "name": "ChatGPT",
+    "desc": "Asistente conversacional para redactar, resumir y resolver dudas del día a día. Cuenta de Maflow.",
+    "cats": [
+      "Texto",
+      "Productividad"
+    ],
+    "url": "https://chatgpt.com/auth/login",
+    "color": "#74E6C2",
+    "plan": "pagada"
+  },
+  {
+    "name": "Gemini",
+    "desc": "Asistente de IA de Google integrado con Gmail, Docs y Drive.",
+    "cats": [
+      "Texto",
+      "Productividad"
+    ],
+    "url": "https://gemini.google.com/app",
+    "color": "#9ECBF5",
+    "plan": "free",
+    "logo": "googlegemini",
+    "requiresCredential": true
+  },
+  {
+    "name": "Grok",
+    "desc": "Asistente conversacional de xAI, integrado con la actualidad y X.",
+    "cats": [
+      "Texto"
+    ],
+    "url": "https://grok.com",
+    "color": "#C7C9CE",
+    "plan": "pagada",
+    "requiresCredential": true
+  },
+  {
+    "name": "Mistral",
+    "desc": "Asistente conversacional europeo, rápido y orientado a texto y código.",
+    "cats": [
+      "Texto",
+      "Desarrollo"
+    ],
+    "url": "https://chat.mistral.ai",
+    "color": "#F5B280",
+    "plan": "free",
+    "logo": "mistralai",
+    "requiresCredential": true
+  },
+  {
+    "name": "Copilot",
+    "desc": "IA integrada en Word, Excel, Outlook y Teams para acelerar tareas de oficina. Cuenta de Netbees.",
+    "cats": [
+      "Productividad",
+      "Texto"
+    ],
+    "url": "https://copilot.microsoft.com",
+    "color": "#8FD1F5",
+    "plan": "pagada"
+  },
+  {
+    "name": "HeyGen",
+    "desc": "Generación de vídeos con avatares de IA y voz a partir de texto.",
+    "cats": [
+      "Video",
+      "Audio"
+    ],
+    "url": "https://app.heygen.com/login",
+    "color": "#C9A6F5",
+    "plan": "pagada",
+    "requiresCredential": true
+  },
+  {
+    "name": "NotebookLM",
+    "desc": "Analiza y resume tus propios documentos y fuentes con IA de Google.",
+    "cats": [
+      "Investigación",
+      "Productividad"
+    ],
+    "url": "https://notebooklm.google.com",
+    "color": "#A6D1C4",
+    "plan": "free",
+    "logo": "notebooklm",
+    "requiresCredential": true
+  },
+  {
+    "name": "Google AI Studio",
+    "desc": "Prueba y prototipa con los modelos Gemini para proyectos de desarrollo.",
+    "cats": [
+      "Desarrollo"
+    ],
+    "url": "https://aistudio.google.com",
+    "color": "#9ECBF5",
+    "plan": "free",
+    "requiresCredential": true
+  },
+  {
+    "name": "Make",
+    "desc": "Automatiza flujos de trabajo conectando aplicaciones sin programar.",
+    "cats": [
+      "Automatización",
+      "Productividad"
+    ],
+    "url": "https://www.make.com/en/login",
+    "color": "#D6B8F5",
+    "plan": "pagada",
+    "logo": "make",
+    "requiresCredential": true
+  },
+  {
+    "name": "Perplexity",
+    "desc": "Motor de búsqueda con IA que responde con fuentes citadas.",
+    "cats": [
+      "Texto",
+      "Investigación"
+    ],
+    "url": "https://www.perplexity.ai",
+    "color": "#8FDED1",
+    "plan": "free",
+    "logo": "perplexity",
+    "requiresCredential": true
+  }
+]

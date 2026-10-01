@@ -1,0 +1,38 @@
+{
+  "Claude": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Gemini": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Grok": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Mistral": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "HeyGen": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "NotebookLM": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Google AI Studio": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Make": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  },
+  "Perplexity": {
+    "usuario": "cuenta@tuempresa.com",
+    "password": "CAMBIA_ESTA_PASSWORD"
+  }
+}

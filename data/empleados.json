@@ -1,0 +1,52 @@
+{
+  "d1": {
+    "name": "Carlos Díaz",
+    "email": "carlos.diaz@tuempresa.com",
+    "dept": "Dirección"
+  },
+  "d2": {
+    "name": "Elena Ruiz",
+    "email": "elena.ruiz@tuempresa.com",
+    "dept": "Dirección"
+  },
+  "it1": {
+    "name": "Diego Castillo",
+    "email": "diego.castillo@tuempresa.com",
+    "dept": "IT / Sistemas"
+  },
+  "it2": {
+    "name": "Marcos Vega",
+    "email": "marcos.vega@tuempresa.com",
+    "dept": "IT / Sistemas"
+  },
+  "a1": {
+    "name": "Laura Gómez",
+    "email": "laura.gomez@tuempresa.com",
+    "dept": "Administración"
+  },
+  "a2": {
+    "name": "Sara Pombo",
+    "email": "sara.pombo@tuempresa.com",
+    "dept": "Administración"
+  },
+  "c1": {
+    "name": "Javier Ortiz",
+    "email": "javier.ortiz@tuempresa.com",
+    "dept": "Comercial"
+  },
+  "c2": {
+    "name": "Marta León",
+    "email": "marta.leon@tuempresa.com",
+    "dept": "Comercial"
+  },
+  "m1": {
+    "name": "Nuria Blanco",
+    "email": "nuria.blanco@tuempresa.com",
+    "dept": "Marketing"
+  },
+  "m2": {
+    "name": "Pablo Serrano",
+    "email": "pablo.serrano@tuempresa.com",
+    "dept": "Marketing"
+  }
+}
